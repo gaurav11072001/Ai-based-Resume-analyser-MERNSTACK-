@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AI Resume Analysis</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F8F9FA" x="0" y="0" width="800" height="600"></rect>
+        <g transform="translate(100, 100)">
+            <!-- Document Icon -->
+            <rect fill="#FFFFFF" stroke="#2196F3" stroke-width="8" x="50" y="50" width="300" height="400" rx="20"></rect>
+            <line x1="100" y1="120" x2="300" y2="120" stroke="#CCCCCC" stroke-width="6"></line>
+            <line x1="100" y1="180" x2="300" y2="180" stroke="#CCCCCC" stroke-width="6"></line>
+            <line x1="100" y1="240" x2="300" y2="240" stroke="#CCCCCC" stroke-width="6"></line>
+            <line x1="100" y1="300" x2="300" y2="300" stroke="#CCCCCC" stroke-width="6"></line>
+            <line x1="100" y1="360" x2="300" y2="360" stroke="#CCCCCC" stroke-width="6"></line>
+            
+            <!-- AI Brain Icon -->
+            <circle fill="#F5F5F5" stroke="#9C27B0" stroke-width="8" cx="450" cy="150" r="100"></circle>
+            <path d="M400,150 C400,120 450,100 500,150" stroke="#9C27B0" stroke-width="5" fill="none"></path>
+            <path d="M400,150 C400,180 450,200 500,150" stroke="#9C27B0" stroke-width="5" fill="none"></path>
+            <circle fill="#9C27B0" cx="420" cy="130" r="10"></circle>
+            <circle fill="#9C27B0" cx="480" cy="130" r="10"></circle>
+            <circle fill="#9C27B0" cx="450" cy="170" r="10"></circle>
+            
+            <!-- Connection Lines -->
+            <path d="M350,200 C380,220 400,250 450,250" stroke="#2196F3" stroke-width="5" stroke-dasharray="10,10" fill="none"></path>
+            
+            <!-- Score Circle -->
+            <circle fill="#FFFFFF" stroke="#4CAF50" stroke-width="8" cx="450" cy="350" r="70"></circle>
+            <text x="450" y="350" font-family="Arial" font-size="40" fill="#4CAF50" text-anchor="middle" dominant-baseline="middle">95%</text>
+            
+            <!-- Stars -->
+            <polygon fill="#FFC107" points="550,300 565,330 600,335 575,360 580,395 550,380 520,395 525,360 500,335 535,330"></polygon>
+            <polygon fill="#FFC107" points="600,250 610,270 635,275 618,290 621,315 600,305 579,315 582,290 565,275 590,270" transform="rotate(15, 600, 280)"></polygon>
+        </g>
+    </g>
+</svg>

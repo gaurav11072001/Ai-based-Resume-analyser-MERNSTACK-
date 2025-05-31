@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Resume Hero</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="800" height="600"></rect>
+        <g transform="translate(50, 50)">
+            <!-- Resume Document -->
+            <rect fill="#FFFFFF" stroke="#2196F3" stroke-width="10" x="50" y="50" width="300" height="450" rx="15"></rect>
+            
+            <!-- Resume Content -->
+            <rect fill="#E3F2FD" x="80" y="100" width="240" height="30" rx="5"></rect>
+            <rect fill="#E3F2FD" x="80" y="150" width="240" height="20" rx="5"></rect>
+            <rect fill="#E3F2FD" x="80" y="180" width="180" height="20" rx="5"></rect>
+            
+            <rect fill="#E3F2FD" x="80" y="230" width="100" height="25" rx="5"></rect>
+            <rect fill="#E3F2FD" x="80" y="265" width="240" height="15" rx="5"></rect>
+            <rect fill="#E3F2FD" x="80" y="290" width="240" height="15" rx="5"></rect>
+            <rect fill="#E3F2FD" x="80" y="315" width="200" height="15" rx="5"></rect>
+            
+            <rect fill="#E3F2FD" x="80" y="360" width="100" height="25" rx="5"></rect>
+            <rect fill="#E3F2FD" x="80" y="395" width="240" height="15" rx="5"></rect>
+            <rect fill="#E3F2FD" x="80" y="420" width="240" height="15" rx="5"></rect>
+            <rect fill="#E3F2FD" x="80" y="445" width="200" height="15" rx="5"></rect>
+            
+            <!-- AI Analysis -->
+            <g transform="translate(400, 100)">
+                <!-- AI Brain -->
+                <circle fill="#F5F5F5" stroke="#9C27B0" stroke-width="8" cx="100" cy="100" r="80"></circle>
+                <path d="M60,100 C60,70 100,50 140,100" stroke="#9C27B0" stroke-width="5" fill="none"></path>
+                <path d="M60,100 C60,130 100,150 140,100" stroke="#9C27B0" stroke-width="5" fill="none"></path>
+                <circle fill="#9C27B0" cx="80" cy="80" r="8"></circle>
+                <circle fill="#9C27B0" cx="120" cy="80" r="8"></circle>
+                <circle fill="#9C27B0" cx="100" cy="120" r="8"></circle>
+                
+                <!-- Analysis Lines -->
+                <line x1="0" y1="220" x2="200" y2="220" stroke="#2196F3" stroke-width="4" stroke-dasharray="10,5"></line>
+                <line x1="0" y1="260" x2="200" y2="260" stroke="#4CAF50" stroke-width="4" stroke-dasharray="10,5"></line>
+                <line x1="0" y1="300" x2="200" y2="300" stroke="#FF9800" stroke-width="4" stroke-dasharray="10,5"></line>
+                
+                <!-- Analysis Score -->
+                <circle fill="#FFFFFF" stroke="#4CAF50" stroke-width="8" cx="100" cy="350" r="50"></circle>
+                <text x="100" y="350" font-family="Arial" font-size="30" fill="#4CAF50" text-anchor="middle" dominant-baseline="middle">92%</text>
+                <text x="100" y="380" font-family="Arial" font-size="12" fill="#4CAF50" text-anchor="middle" dominant-baseline="middle">ATS Score</text>
+            </g>
+            
+            <!-- Connection Lines -->
+            <path d="M350,200 C380,200 400,200 400,200" stroke="#2196F3" stroke-width="3" stroke-dasharray="5,5"></path>
+            <path d="M350,300 C380,300 400,300 400,300" stroke="#2196F3" stroke-width="3" stroke-dasharray="5,5"></path>
+            <path d="M350,400 C380,400 400,400 400,400" stroke="#2196F3" stroke-width="3" stroke-dasharray="5,5"></path>
+            
+            <!-- Sparkles -->
+            <polygon fill="#FFC107" points="500,50 510,70 530,75 510,85 515,105 500,95 485,105 490,85 470,75 490,70"></polygon>
+            <polygon fill="#FFC107" points="600,80 605,90 615,92 605,98 607,110 600,105 593,110 595,98 585,92 595,90"></polygon>
+            <polygon fill="#FFC107" points="650,150 655,160 665,162 655,168 657,180 650,175 643,180 645,168 635,162 645,160"></polygon>
+        </g>
+    </g>
+</svg>

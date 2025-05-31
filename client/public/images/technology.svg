@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Technology Stack</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F8F9FA" x="0" y="0" width="800" height="600"></rect>
+        <g transform="translate(100, 100)">
+            <!-- MongoDB Icon -->
+            <rect fill="#4CAF50" x="50" y="50" width="120" height="120" rx="20"></rect>
+            <text x="110" y="120" font-family="Arial" font-size="24" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">MongoDB</text>
+            
+            <!-- Express Icon -->
+            <rect fill="#000000" x="200" y="50" width="120" height="120" rx="20"></rect>
+            <text x="260" y="120" font-family="Arial" font-size="24" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">Express</text>
+            
+            <!-- React Icon -->
+            <rect fill="#2196F3" x="350" y="50" width="120" height="120" rx="20"></rect>
+            <text x="410" y="120" font-family="Arial" font-size="24" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">React</text>
+            
+            <!-- Node.js Icon -->
+            <rect fill="#8BC34A" x="500" y="50" width="120" height="120" rx="20"></rect>
+            <text x="560" y="120" font-family="Arial" font-size="24" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">Node.js</text>
+            
+            <!-- Gemini AI Icon -->
+            <circle fill="#9C27B0" cx="325" cy="300" r="100"></circle>
+            <text x="325" y="300" font-family="Arial" font-size="28" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">Gemini AI</text>
+            
+            <!-- Connection Lines -->
+            <line x1="110" y1="170" x2="260" y2="200" stroke="#4CAF50" stroke-width="4"></line>
+            <line x1="260" y1="170" x2="325" y2="200" stroke="#000000" stroke-width="4"></line>
+            <line x1="410" y1="170" x2="325" y2="200" stroke="#2196F3" stroke-width="4"></line>
+            <line x1="560" y1="170" x2="410" y2="200" stroke="#8BC34A" stroke-width="4"></line>
+            
+            <!-- Technology Banner -->
+            <rect fill="#FFFFFF" stroke="#FF5722" stroke-width="8" x="125" y="400" width="400" height="80" rx="20"></rect>
+            <text x="325" y="450" font-family="Arial" font-size="32" fill="#FF5722" text-anchor="middle" dominant-baseline="middle">MERN + Gemini AI</text>
+        </g>
+    </g>
+</svg>
