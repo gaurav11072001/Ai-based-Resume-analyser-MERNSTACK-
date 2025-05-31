@@ -1,5 +1,14 @@
 # AI-Powered Resume Analyzer with Gemini
 
+![image](https://github.com/user-attachments/assets/ea6b2869-2701-4744-8810-ce2344b578a5)
+
+![image](https://github.com/user-attachments/assets/d793cf60-39dc-42df-8eee-5f25f014a0c7)
+
+![image](https://github.com/user-attachments/assets/9a935e12-ef16-4f7f-9c7e-87b239756417)
+
+
+
+
 A MERN stack application that leverages Google's Gemini AI to analyze resumes, provide ATS compatibility scores, suggest improvements, and match job roles based on extracted skills.
 
 ## Features
